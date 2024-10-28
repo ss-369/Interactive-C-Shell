@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Interactive-C-Shell
 
 ---
