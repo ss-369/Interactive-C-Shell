@@ -1,5 +1,4 @@
 # Interactive-C-Shell
-Here’s a `README.md` file tailored for your C-like shell implementation based on Assignment 2 (POSIX Shell Implementation):
 
 ---
 
